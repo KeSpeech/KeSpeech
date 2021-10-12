@@ -1,6 +1,6 @@
 Volunteers had to sign an agreement for open-sourcing their speech for academic usage before further recording (as described in the paper #217).
 
-The agreement is in Chinese as follows:
+The agreement provided by the company legal dept is in Chinese as follows:
 
 ```
 尊敬的经纪人：
