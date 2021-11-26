@@ -1,11 +1,14 @@
 # KeSpeech
-This repo provides information for "KeSpeech: An Open Source Speech Dataset of Mandarin and Its Eight Subdialects".
+This repo provides information for [KeSpeech: An Open Source Speech Dataset of Mandarin and Its Eight Subdialects](https://openreview.net/forum?id=b3Zoeq2sCLq).
 
-## Data downloading
-The downloading method will be published soon after we go through the audit procedure of our company legal dept.
+## Apply for data
+* Send following info to kespeech@ke.com
+```
+  Research institute:
+  Person in charge:
+  What to do with KeSpeech:
+```
+* Sign agreement and send back the scanned version
+  * Note that, we will have a **strict** review on the application (see [Ethics Review](https://openreview.net/forum?id=b3Zoeq2sCLq&noteId=ayoDevslhL) for why).
+* Get download link.
 
-## Baseline recipes
-Coming soon.
-
-## Pretrained models
-Coming soon.
